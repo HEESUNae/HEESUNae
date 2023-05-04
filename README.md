@@ -1,4 +1,4 @@
-<div align="center">
+
 웹디자이너 & 퍼블리셔 3년 + 웹퍼블리셔 1년<br/>
 현재는 프론트엔드 개발에 진심인 새싹 프론트엔드의 Github
   
@@ -20,7 +20,7 @@
 ## Deploy
 
 <img src="https://img.shields.io/badge/GithubPages-222222?style=flat-square&logo=GithubPages&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-</div>
+
 
 
 

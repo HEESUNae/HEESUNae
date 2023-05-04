@@ -14,7 +14,7 @@
 
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/readme-018EF5?style=flat-square&logo=readme&logoColor=white"/>
 
-## Design
+## Assets
 
 <img src="https://img.shields.io/badge/Unsplash-000000?style=flat-square&logo=unsplash&logoColor=white"/> <img src="https://img.shields.io/badge/Pixabay-2EC66D?style=flat-square&logo=pixabay&logoColor=white"/> <img src="https://img.shields.io/badge/MaterialDesignIcons-2196F3?style=flat-square&logo=MaterialDesignIcons&logoColor=white"/> <img src="https://img.shields.io/badge/GoogleFonts-4285F4?style=flat-square&logo=googlefonts&logoColor=white"/>
 

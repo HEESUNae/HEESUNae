@@ -16,7 +16,7 @@
 
 ## Design
 
-<img src="https://img.shields.io/badge/Unsplash-000000?style=flat-square&logo=unsplash&logoColor=white"/> <img src="https://img.shields.io/badge/Pixabay-2EC66D?style=flat-square&logo=pixabay&logoColor=white"/> <img src="https://img.shields.io/badge/materialDesignIcons-2196F3?style=flat-square&logo=materialDesignIcons&logoColor=white"/> <img src="https://img.shields.io/badge/GoogleFonts-4285F4?style=flat-square&logo=googlefonts&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unsplash-000000?style=flat-square&logo=unsplash&logoColor=white"/> <img src="https://img.shields.io/badge/Pixabay-2EC66D?style=flat-square&logo=pixabay&logoColor=white"/> <img src="https://img.shields.io/badge/MaterialDesignIcons-2196F3?style=flat-square&logo=MaterialDesignIcons&logoColor=white"/> <img src="https://img.shields.io/badge/GoogleFonts-4285F4?style=flat-square&logo=googlefonts&logoColor=white"/>
 
 ## Deploy
 

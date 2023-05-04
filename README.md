@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=438CB5&height=300&section=header&text=Minji%20Kim&fontSize=90&fontColor=FFFFFF)
 웹디자이너 & 퍼블리셔 3년 + 웹퍼블리셔 1년<br/>
 현재는 프론트엔드 개발에 진심인 새싹 프론트엔드의 Github
   

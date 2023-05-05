@@ -1,6 +1,4 @@
-웹디자이너 & 퍼블리셔 3년 + 웹퍼블리셔 1년<br/>
-현재는 프론트엔드 개발에 진심인 새싹 프론트엔드의 Github
-  
+
 ## Study
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Html5&logoColor=white"/> <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 <br/>

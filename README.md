@@ -4,6 +4,7 @@
 <br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=StyledComponents&logoColor=white"/>
 <br/>
 
